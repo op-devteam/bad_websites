@@ -1,1 +1,1 @@
-# bad_websites
+Websites list to block using firewall.
